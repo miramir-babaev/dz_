@@ -1,0 +1,15 @@
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.csproj.AssemblyReference.cache
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.AssemblyInfoInputs.cache
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.AssemblyInfo.cs
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.csproj.CoreCompileInputs.cache
+/Users/miramirbabaev/dz/dz_1/bin/Debug/net6.0/dz_1
+/Users/miramirbabaev/dz/dz_1/bin/Debug/net6.0/dz_1.deps.json
+/Users/miramirbabaev/dz/dz_1/bin/Debug/net6.0/dz_1.runtimeconfig.json
+/Users/miramirbabaev/dz/dz_1/bin/Debug/net6.0/dz_1.dll
+/Users/miramirbabaev/dz/dz_1/bin/Debug/net6.0/dz_1.pdb
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.dll
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/refint/dz_1.dll
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.pdb
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/dz_1.genruntimeconfig.cache
+/Users/miramirbabaev/dz/dz_1/obj/Debug/net6.0/ref/dz_1.dll

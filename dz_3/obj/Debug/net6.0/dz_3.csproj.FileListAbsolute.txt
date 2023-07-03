@@ -1,0 +1,15 @@
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.csproj.AssemblyReference.cache
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.AssemblyInfoInputs.cache
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.AssemblyInfo.cs
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.csproj.CoreCompileInputs.cache
+/Users/miramirbabaev/dz/dz_3/bin/Debug/net6.0/dz_3
+/Users/miramirbabaev/dz/dz_3/bin/Debug/net6.0/dz_3.deps.json
+/Users/miramirbabaev/dz/dz_3/bin/Debug/net6.0/dz_3.runtimeconfig.json
+/Users/miramirbabaev/dz/dz_3/bin/Debug/net6.0/dz_3.dll
+/Users/miramirbabaev/dz/dz_3/bin/Debug/net6.0/dz_3.pdb
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.dll
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/refint/dz_3.dll
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.pdb
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/dz_3.genruntimeconfig.cache
+/Users/miramirbabaev/dz/dz_3/obj/Debug/net6.0/ref/dz_3.dll
